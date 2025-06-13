@@ -854,7 +854,7 @@ body {
 
 /* 搜索结果卡片优化：横向布局 */
 .search-card-img-container {
-    width: 120px;  /* 增加宽度，从80px到100px */
+    width: 1800px;  /* 增加宽度，从80px到100px */
     height: 150px; /* 增加高度，从120px到150px */
     overflow: hidden;
     background-color: #191919;
